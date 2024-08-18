@@ -25,11 +25,15 @@ Enhance your VSCode experience with a customized theme! Follow these steps to ap
    - Add the path to your `custom-vscode.css` file. Use the following format:
      - **For Windows**:  
        ```json
-       "vscode_custom_css.imports": ["file:///C:/Users/Sahib/AppData/Roaming/Code/User/custom-vscode.css"]
+       "vscode_custom_css.imports": [
+       "file:///C:/Users/Sahib/AppData/Roaming/Code/User/custom-vscode.css
+       "],
        ```
      - **For macOS**:  
        ```json
-       "vscode_custom_css.imports": ["file:///Users/Sahib/Library/Application%20Support/Code/User/custom-vscode.css"]
+       "vscode_custom_css.imports": [
+       "file:///Users/Sahib/Library/Application%20Support/Code/User/custom-vscode.css"
+       ],
        ```
 
 3. **Enable Custom CSS and JS:**
