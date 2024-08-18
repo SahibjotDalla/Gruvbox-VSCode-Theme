@@ -5,8 +5,6 @@ Enhance your VSCode experience with a customized theme! Follow these steps to ap
 
 ![Gruvbox VSCode](https://github.com/user-attachments/assets/fa2c8d97-58b2-4415-90a2-80c934bf4e4d)
 
-![Fullscreen Gruvbox VSCode](https://github.com/user-attachments/assets/f2dc946b-eede-4092-b461-b39408b2d38b)
-
 ![Windowed Grubbox VSCode](https://github.com/user-attachments/assets/fa37a372-f5f2-4da5-a086-02bdc94712ec)
 
 
