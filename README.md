@@ -10,10 +10,13 @@ Enhance your VSCode experience with a customized theme! Follow these steps to ap
 
 ### 🛠️ Prerequisites
 1. **Dark Gruvbox With Italics** Theme:  
-   Download and install the **_Dark Gruvbox With Italics_** theme from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=sagaban.dark-gruvbox-with-italics).
+   Download and install **_Dark Gruvbox With Italics_** theme from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=sagaban.dark-gruvbox-with-italics).
 
 2. **Custom CSS and JS Loader**:  
-   Download and install the **_Custom CSS and JS Loader_** from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css).
+   Download and install **_Custom CSS and JS Loader_** from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css).
+
+2. **Try's Icon Pack**:  
+   Download and install **_Try's Icon Pack_** from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=rafapaulin.try-material-icon-theme).
 
 ### 📂 Setup Instructions
 
