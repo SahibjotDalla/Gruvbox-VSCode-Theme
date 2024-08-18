@@ -1,13 +1,17 @@
+Here’s the updated description with the additional troubleshooting information:
+
+---
+
 ## Custom VSCode Theme Setup
 
 Enhance your VSCode experience with a customized theme! Follow these steps to apply your custom VSCode theme using the **_Dark Gruvbox With Italics_** theme and **_Custom CSS and JS Loader_** extension.
 
 ### 🛠️ Prerequisites
-1. **Dark Gruvbox With Italics** Theme:  
-   Download and install the **Dark Gruvbox With Italics** theme from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=sagaban.dark-gruvbox-with-italics).
+1. **_Dark Gruvbox With Italics_** Theme:  
+   Download and install the **_Dark Gruvbox With Italics_** theme from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=sagaban.dark-gruvbox-with-italics).
 
-2. **Custom CSS and JS Loader**:  
-   Download and install the **Custom CSS and JS Loader** from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css).
+2. **_Custom CSS and JS Loader_**:  
+   Download and install the **_Custom CSS and JS Loader_** from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css).
 
 ### 📂 Setup Instructions
 
@@ -41,4 +45,8 @@ Enhance your VSCode experience with a customized theme! Follow these steps to ap
    - Restart VSCode to apply the changes.
    - If the issue persists, double-check that the file path in `settings.json` is correct.
 
+If you’re still having issues with the **_Custom CSS and JS Loader_**, check out the [official troubleshooting guide](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) for additional help.
+
 And that's it! Your custom VSCode theme should now be active and looking great. Enjoy your personalized coding environment!
+
+---
