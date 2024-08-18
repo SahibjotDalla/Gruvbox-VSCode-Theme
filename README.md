@@ -2,6 +2,8 @@
 
 Enhance your VSCode experience with a customized theme! Follow these steps to apply your custom VSCode theme using the **_Dark Gruvbox With Italics_** theme and **_Custom CSS and JS Loader_** extension.
 
+![Custom Theme](https://github.com/user-attachments/assets/a5675120-165d-4e17-8f24-1000f21a4090)
+
 ### 🛠️ Prerequisites
 1. **Dark Gruvbox With Italics** Theme:  
    Download and install the **_Dark Gruvbox With Italics_** theme from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=sagaban.dark-gruvbox-with-italics).
