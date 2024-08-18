@@ -57,13 +57,15 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 20,
 
-    // If you have code runner, Put code runner code here
+    // If you have code runner, Un-comment this and put the code runner code here
     
     // "code-runner.executorMap": {
     //     "python": "python -u"
     // },
     // "code-runner.clearPreviousOutput": true,
 
+    // Keep this the same
+    
     // "[code-runner-output]": {
     //     "editor.fontSize": 14
     // },
