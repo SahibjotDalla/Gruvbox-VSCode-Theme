@@ -57,7 +57,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 20,
 
-    // Put Code Runner Code Here
+    // If you have code runner, Put code runner code here
     
     // "code-runner.executorMap": {
     //     "python": "python -u"
@@ -69,8 +69,9 @@
     // },
 
     "vscode_custom_css.imports": [
-        "file:///C:/Users/YourComputerNameHere/AppData/Roaming/Code/User/custom-vscode.css"
+        "file:///path/to/your/custom-vscode.css"
     ],
+
     "security.workspace.trust.untrustedFiles": "open",
     "editor.stickyScroll.enabled": false,
     "debug.showInlineBreakpointCandidates": false,
