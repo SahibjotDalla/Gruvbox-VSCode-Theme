@@ -57,17 +57,19 @@
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 20,
 
-    "code-runner.executorMap": {
-        "python": "python -u"
-    },
-    "code-runner.clearPreviousOutput": true,
+    // Put Code Runner Code Here
+    
+    // "code-runner.executorMap": {
+    //     "python": "python -u"
+    // },
+    // "code-runner.clearPreviousOutput": true,
 
-    "[code-runner-output]": {
-        "editor.fontSize": 14
-    },
+    // "[code-runner-output]": {
+    //     "editor.fontSize": 14
+    // },
 
     "vscode_custom_css.imports": [
-        "file:///C:/Users/Sahib/AppData/Roaming/Code/User/custom-vscode.css"
+        "file:///C:/Users/YourComputerNameHere/AppData/Roaming/Code/User/custom-vscode.css"
     ],
     "security.workspace.trust.untrustedFiles": "open",
     "editor.stickyScroll.enabled": false,
