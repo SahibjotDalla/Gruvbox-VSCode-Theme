@@ -26,8 +26,8 @@ Enhance your VSCode experience with a customized theme! Follow these steps to ap
      - **For Windows**:  
        ```json
        "vscode_custom_css.imports": [
-       "file:///C:/Users/Sahib/AppData/Roaming/Code/User/custom-vscode.css
-       "],
+       "file:///C:/Users/Sahib/AppData/Roaming/Code/User/custom-vscode.css"
+       ],
        ```
      - **For macOS**:  
        ```json
